@@ -1,4 +1,4 @@
-🛡️ # **ProsaGuard AI: The Resilience Orchestrator**
+# 🛡️ **ProsaGuard AI: The Resilience Orchestrator**
 Hardening Agentic Workflows for High-Availability Financial Systems
 ![alt text](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)
 
@@ -8,13 +8,13 @@ Hardening Agentic Workflows for High-Availability Financial Systems
 
 ![alt text](https://img.shields.io/badge/Sovereignty-Proprietary-gold?style=flat-square)
 
-📋 ## **Executive Summary**
+## 📋 **Executive Summary**
 
 ProsaGuard AI no es una implementación de IA convencional; es una Capa de Resiliencia Determinista diseñada para proteger la integridad de las transacciones financieras en el Switch de pagos de México.
 
 Inspirado en la visión de la "Plataforma Invisible" de PROSA, este orquestador agéntico resuelve el "Reliability Gap" (Brecha de Confiabilidad) de los modelos de lenguaje actuales, asegurando que la automatización nunca comprometa la Atomicidad de los Datos ni la Seguridad Bancaria.
 
-🚀 ## **Key Technical Differentiators**
+## 🚀 **Key Technical Differentiators**
 1. The Resilience Shield (Deterministic Recovery Layer)
 
 Implementación de un Cincel Regex que intercepta el no-determinismo de los LLMs.
@@ -32,12 +32,15 @@ Arquitectura basada en agentes especialistas que colaboran bajo un marco de Gobe
 
 El sistema demostró su capacidad de Hardening al identificar una vulnerabilidad de fraude financiero en una transacción de $15,000 MXN. Mientras que un agente tradicional habría validado el cargo por metadatos (Chip+NIP), ProsaGuard AI detectó una discrepancia de identidad en el emisor y disparó un Bloqueo de Emergencia.
 
-🛠️ ## **Architecture & Sovereignty**
+## 🛠️ **Architecture & Sovereignty**
 - Stack: Python 3.12, Streamlit, Regex-based Sanitization.
 - Compliance: Diseñado bajo los estándares de la CNSF y el rigor de una Cédula A de Seguros.
 - Business Impact: Reducción proyectada del 40% en OPEX y mejora del 90% en el SLA de aclaraciones interbancarias.
 
-✒️ ## **Author**
+## ✒️ **Author**
+
 Talia González López
 Applied AI Engineer | Founder of #AgenticBuildersLATAM
 "Building the unshakeable infrastructure for the future of finance."
+
+[LinkedIn](https://www.linkedin.com/in/talia-gonzalezl/)
