@@ -1,0 +1,6 @@
+﻿Transacción ID;MTI;POS Entry Mode;Response Code;Amount;Intent / Disputa
+TXN-001;100;07 (Contactless);00 (Aprobado);$450.00;"""No reconozco el cargo, no usé mi tarjeta."""
+TXN-002;100;01 (Manual/Banda);00 (Aprobado);$1,200.00;"""Dicen que fue contactless pero mi tarjeta no tiene chip."""
+TXN-003;100;91 (Contactless);05 (Rechazado);$85.00;"""Me cobraron doble en el OXXO."""
+TXN-004;100;07 (Contactless);00 (Aprobado);$3,500.0;"""Cargo por encima del límite permitido sin NIP."""
+TXN-005;110;05 (Chip+NIP);00 (Aprobado);$15,000.00;"""FRAUDE: Es un phishing de correo."" (CASO DE HOY)"
